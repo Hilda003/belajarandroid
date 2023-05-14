@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KalkulatorApp</string>
+    <string name="name">Enter your name</string>
+    <string name="snakcbar">Snakcbar</string>
+</resources>
